@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/stylesheet">
+        <file>Darkeum.qss</file>
+    </qresource>
+</RCC>
